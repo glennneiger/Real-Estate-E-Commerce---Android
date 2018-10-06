@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6584343387",
+    "firebase_url": "https://rees-552e5.firebaseio.com",
+    "project_id": "rees-552e5",
+    "storage_bucket": "rees-552e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6584343387:android:b8cfa0f559802c6e",
+        "android_client_info": {
+          "package_name": "com.axiomcorp.rohan.rees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6584343387-ar7qou1ovu34n72o614n3b7q67ed0ve0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axiomcorp.rohan.rees",
+            "certificate_hash": "1a55b6a8597f8227d6710d90d00718de58326968"
+          }
+        },
+        {
+          "client_id": "6584343387-mhughf8c5jjhh39d70q3crclq5nh63aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVDqDJxskSkSZoaM5GcSFGWNQxTydf2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6584343387-mhughf8c5jjhh39d70q3crclq5nh63aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

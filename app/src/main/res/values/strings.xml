@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">REES</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registerLink">Not a user yet? Register </string>
+    <string name="hereLink">\ here</string>
+    <string name="register">Register</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="contact">Contact</string>
+    <string name="type">Type</string>
+    <string name="username">Username</string>
+    <string name="loginLink">Already a user? Login</string>
+    <string name="forgotPasswordLink">Forgot Password?</string>
+    <string name="send">Send</string>
+    <array name="userType">
+        <item>Buyer</item>
+        <item>Seller</item>
+    </array>
+</resources>
