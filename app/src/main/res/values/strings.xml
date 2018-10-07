@@ -14,6 +14,11 @@
     <string name="loginLink">Already a user? Login</string>
     <string name="forgotPasswordLink">Forgot Password?</string>
     <string name="send">Send</string>
+    <string name="search">Search</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
     <array name="userType">
         <item>Buyer</item>
         <item>Seller</item>
