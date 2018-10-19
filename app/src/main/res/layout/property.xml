@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    cardCornerRadius="6dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="8dp"
+    android:elevation="3dp">
+
+
+    <TextView
+        android:id="@+id/vname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</android.support.v7.widget.CardView>

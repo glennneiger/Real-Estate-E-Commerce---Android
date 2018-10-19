@@ -12,12 +12,31 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity" android:label="Login"/>
-        <activity android:name=".RegisterActivity" android:label="Register"/>
-        <activity android:name=".ForgotPasswordActivity" android:label="Password Reset"></activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Login" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="Register" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:label="Password Reset" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".DashboardActivity"
+            android:label="Dashboard" />
+        <activity
+            android:name=".DetailActivity"
+            android:label="Details"/>
+        <activity
+            android:name=".PostActivity"
+            android:label="Post" />
     </application>
 
 </manifest>
